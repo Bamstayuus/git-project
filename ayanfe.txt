@@ -1,3 +1,7 @@
 this is my wife other name
+<<<<<<< HEAD
 
 add something new
+=======
+and many other
+>>>>>>> origin2/master
