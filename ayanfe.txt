@@ -3,5 +3,4 @@ this is my wife other name
 
 add something new
 =======
-and many other
->>>>>>> origin2/master
+and many other indeed
